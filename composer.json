@@ -1,0 +1,13 @@
+{
+    "name": "mortimer/rootrelativeurls",
+    "description": "Overrides Laravel default UrlGenerator to output root-relative URLs instead of full absolute ones",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Pascal Hurni",
+            "email": "phi@pragmaticpurist.org"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
